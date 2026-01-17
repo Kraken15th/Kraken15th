@@ -1,6 +1,8 @@
 - I'm Ahmed Karrar, known as "Kraken" .. 
-- A resilient Business Developer at RK TECH South Africa specialized in SAS " Smart Agricultural Solutions" and Logistics Operations Support. after long way of practice, research and initiatives of small self-funded projects.
-- Now after a long JOurney I managed to join the Tech Industry and I'm passionate to become one of the experts in Back-End field
+- A resilient self learner dedicated to programming as a .Net Fullstack Developer coming from a
+background of holistic business orientation that included Agri-Business, learning and development and
+E-Commerce and many other tracks giving me insightful way of applying Tech-Knowledge to building
+highly impactful apps; innovative and maintainable.
 
 
 <!---
